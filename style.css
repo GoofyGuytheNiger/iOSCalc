@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css2?family=Pixelify+Sans&display=swap');
+*
+{
+    font-family:'Arial';
+}
+body
+{
+    align-items: center;
+    justify-content: space-between;
+    justify-content: center;
+    border: none;
+    outline: none;
+    margin: 6px;
+    background-color: black;
+    font-size: 0px;
+    padding-top: 120px;
+    padding-bottom: 0px;
+    justify-content: space-between;
+}
+
+.yosup, .yosup1, .yosup2, .yo
+{
+    border-radius: 100%;
+    border: none;
+    color: #d4d4d2;
+    height:90px;
+    margin: 5.32px;
+    width: 90px;
+    font-size: 50px;
+    background-color: #1c1c1c;
+}
+.yosup2{
+    width: 190px;
+    border-radius: 100px;
+}
+.yosup1
+{
+    background-color: #FF9500;
+    font-style: #101010;
+    font-size: 50px;
+    flex: none;
+}
+.yo, .yo2, .yo3
+{
+    width:90px;
+    height:90px;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    border-radius: 100px;
+    font-size: 40px;
+}
+.screen
+{
+    width: 390px;
+    margin: 5.32px;
+    height:90px;
+    border-radius: 100p;
+}
+.screen
+{
+    background-color: black;
+    color: white;
+    border: none;
+    text-align: right;
+    outline: none;
+    margin: 5.32px;
+    font-size: 124px;
+    margin-bottom: 70px;
+}
+.yo1
+{
+    border-radius: 100%;
+    border: none;
+    color: rgba(255, 255, 255, 0.75);
+    height:90px;
+    width: 90px;
+    font-size: 30px;
+    font-weight: 550;
+    margin: 5.32px;
+    font-size: 40px;
+    background-color: #FF9500;;
+}
+.yosup:active, .yosup1:active, .yosup2:active, .yo:active, .yo1:active, .yo2:active, .yo3:active
+{
+    background-color: #353030;
+    color: white;
+}
+.yo3, .yo2
+{
+    margin: 5.32px;
+    border: none;
+    outline: none;
+}
+.yo, .yo2, .yo3
+{
+    background-color: #777777;
+    color: #000000;
+}
+.screen::placeholder
+{
+    color: white;
+    font-style:normal;
+}
+.yosup4
+{
+    border-radius: 100%;
+    border: none;
+    color: #d4d4d2;
+    height:90px;
+    margin: 5.32px;
+    width: 90px;
+    font-size: 50px;
+    background-color: #1c1c1c;
+    font-family: 'Century Gothic';
+}
+.yo2
+{
+    font-family: 'TW Cen MT';
+}
+.yo3
+{
+    font-family: 'Century Gothic';
+}
+.wrapper
+{
+    margin-top: 60px;
+}
